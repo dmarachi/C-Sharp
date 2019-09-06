@@ -1,0 +1,6 @@
+C:\Users\Silver\Desktop\UCalgary C#\areaOfCircle\areaOfCircle\bin\Debug\areaOfCircle.exe.config
+C:\Users\Silver\Desktop\UCalgary C#\areaOfCircle\areaOfCircle\bin\Debug\areaOfCircle.exe
+C:\Users\Silver\Desktop\UCalgary C#\areaOfCircle\areaOfCircle\bin\Debug\areaOfCircle.pdb
+C:\Users\Silver\Desktop\UCalgary C#\areaOfCircle\areaOfCircle\obj\Debug\areaOfCircle.csprojResolveAssemblyReference.cache
+C:\Users\Silver\Desktop\UCalgary C#\areaOfCircle\areaOfCircle\obj\Debug\areaOfCircle.exe
+C:\Users\Silver\Desktop\UCalgary C#\areaOfCircle\areaOfCircle\obj\Debug\areaOfCircle.pdb
